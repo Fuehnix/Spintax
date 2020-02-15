@@ -32,7 +32,7 @@ An advanced spintax element supported by SolidSpintax is an integer switch.
 ##### Basic Example:
 > The retail price is ${400-500}.
 ##### Possible Outputs (101 total):
- - "The retail price is $153."
+ - "The retail price is $453."
  - "The retail price is $479."
 
 ##### Advanced Example:
